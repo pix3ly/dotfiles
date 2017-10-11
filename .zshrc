@@ -1,1 +1,2 @@
-export PS1="[%*] "
+export PROMPT="%n at %m in %~
+→ "
